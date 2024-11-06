@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Han"
+  given-names: "Jinkyo"
+  orcid: "https://orcid.org/0009-0003-2390-3659"
+title: "ANN with Quick Bayesian Optimization"
+version: 1.0.0
