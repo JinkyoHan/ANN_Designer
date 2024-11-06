@@ -6,3 +6,5 @@ authors:
   orcid: "https://orcid.org/0009-0003-2390-3659"
 title: "ANN with Quick Bayesian Optimization"
 version: 1.0.0
+date-released: 2023-11-01
+url: "https://github.com/JinkyoHan/ANN_Designer"
